@@ -5,6 +5,7 @@
 ## Start Here
 
 - [Overview](docs/Overview.md) — Plugin summary, module list, feature areas, required plugins
+- [Demo](demos/demo.md) — Demo Examples of how to make various systems & features using OGF
 - [Project Structure Standards](ProjectStructueStandards.md) — Studio SyndiCat folder & naming conventions
 
 ---
